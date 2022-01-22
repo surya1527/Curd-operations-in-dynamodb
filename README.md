@@ -1,5 +1,8 @@
 # Curd-operations-in-dynamodb
 
+
+Before performing the curd operations make sure that your amazon cli is configured.
+
 C- Create
 R- Read
 U- Update
