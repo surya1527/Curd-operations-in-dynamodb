@@ -8,3 +8,4 @@ D- Delete
 
 
 I have considered my Table name as files.
+In my case uder_id is teh primary key 
