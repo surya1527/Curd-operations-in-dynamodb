@@ -6,10 +6,10 @@ def create_file_table(dynamodb=None):
         dynamodb = boto3.resource('dynamodb',region_name='ap-south-1')
 
     table = dynamodb.create_table(
-        TableName='files',
+        TableName='files',         #Enter your table name
         KeySchema=[
             {
-                'AttributeName': 'user_id',
+                'AttributeName': 'user_id',             #partition key
                 'KeyType': 'HASH'  # Partition key
             }
         ],
