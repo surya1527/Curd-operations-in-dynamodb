@@ -11,4 +11,5 @@ D- Delete
 
 
 I have considered my Table name as files.
-In my case uder_id is teh primary key and set the region depending on your region.
+In my case uder_id is the primary key and set the region depending on your region.
+irrespective of the number of columns the rows are created.
