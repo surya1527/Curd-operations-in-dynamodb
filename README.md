@@ -11,7 +11,7 @@ D- Delete
 
 
 I have considered my Table name as files.</br>
-In my case uder_id is the primary key and set the region depending on your region.
-irrespective of the number of columns the rows are created.
-To run a file open terminal and type [python3 filename.py] It runs the code.
+In my case uder_id is the primary key and set the region depending on your region.</br>
+irrespective of the number of columns the rows are created.</br>
+To run a file open terminal and type [python3 filename.py] It runs the code.</br>
 
