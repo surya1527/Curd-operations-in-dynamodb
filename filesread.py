@@ -2,9 +2,6 @@ from pprint import pprint
 import boto3
 from botocore.exceptions import ClientError
 
-from cats import TableName
-
-
 def get_file(dynamodb=None):
     if not dynamodb:
         dynamodb = boto3.resource('dynamodb',region_name='ap-south-1')
