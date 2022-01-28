@@ -1,0 +1,61 @@
+
+[{
+    "user_id" : 1,
+    "user_name" : "stark",
+    "Role":"ironman",
+    "info" : {
+        "role" : [
+            "Iron man"
+        ],
+        "location" : "America",
+        "age" : 36,
+        "hobbie" : [
+            "Building Technologies",
+            "sponcer"
+        ],
+        "image_url" : "https://images.app.goo.gl/V2tUie9WPT1n4Wqo8",
+        "plot" : "One of the member of team avengers.",
+        "rank" : 2,
+        "running_time_secs" : 3000,
+        "real_name" : [
+            "Tony ",
+            "Robert"
+       ]
+    }
+},
+
+{
+    "user_id":6,
+    "user_name":"strange",
+    "Role":"Doctor Strsnge",
+    "Trained":"India",
+    "skill":"Magic"
+
+},
+{
+    "user_id":7,
+    "user_name":"Banner",
+    "Role":"Hulk",
+    "Trained":"India",
+    "skill":"Bigman"
+
+},
+{
+    "user_id":6,
+    "user_name":"Tor",
+    "Role":"Thor",
+    "Trained":"space",
+    "skill":"Thunder"
+
+}
+]
+
+
+
+
+
+
+
+
+
+
