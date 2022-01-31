@@ -15,7 +15,7 @@ def delete_unwanted_file(user_id, age, dynamodb=None):
             Key={
                 'user_id': user_id
             },
-            ConditionExpression="age >= :val",   #Use Conditional expressions if it is necessary.
+            ConditionExpression="age >= :val",   #Use Conditional expressions if it is necessary. 
             ExpressionAttributeValues={
                 ":val": age
             }
