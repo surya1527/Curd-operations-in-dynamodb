@@ -3,11 +3,15 @@
 
 Before performing the curd operations make sure that your amazon cli is configured.
 
-C- Create
-R- Read
-U- Update
-D- Delete
-  In this repository yoy can find all the information that is needed to to perform curd operations.
+C- Create</br>
+R- Read</br>
+U- Update</br>
+D- Delete</br>
+  In this repository yoy can find all the information that is needed to to perform curd operations.</br>
+  
+  
+Note: configure your aws account in order to see the results get updated into your aws account.</br>
+[Click Here](
 
 
 I have considered my Table name as files.</br>
